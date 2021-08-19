@@ -1,0 +1,45 @@
+.titulo.h1{
+    font-family: 'Style Script', cursive;
+    font-size: 35px;
+}
+
+
+
+.opciones, .dropdown-toggle{
+    color: grey;
+}
+.opciones:hover, .dropdown-toggle:hover{
+    color: black;
+}
+
+
+
+.nav-pills .nav-item .nav-link:not(.active){
+    color: #bdbdbd;
+}
+
+.nav-pills .nav-item .nav-link:not(.active):hover{
+    color: grey;
+}
+
+.nav-pills .nav-item .nav-link.active{
+    background-color: grey;
+}
+
+
+
+
+.card{
+    margin: auto;
+    width: 600px;
+}
+
+h3{
+    display: inline-block;
+}
+
+.fecha{
+    float: right;
+    color: gray;
+    padding-right: 0px;
+}
